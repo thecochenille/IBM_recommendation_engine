@@ -2,7 +2,7 @@
 ## Building recommendation engines
 ==============
 # Overview
-This project uses user interaction to provide article recommendations to a test dataset.
+This project uses user interaction to provide article recommendations on [IBM Watson Studio](https://www.ibm.com/blog/tag/ibm-watson-studio/)
 
 # Outline of the notebook
 
