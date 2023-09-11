@@ -27,6 +27,6 @@ You can view the project either using the ipynb or the html file.
 I plan to create python modules for a recommendation engine based on the Jupyter Notebook
 
 # Credits
-[IBM Watson Studio](https://www.ibm.com/blog/tag/ibm-watson-studio/)
-[Udacity](www.udacity.com)
+- [IBM Watson Studio](https://www.ibm.com/blog/tag/ibm-watson-studio/)
+- [Udacity](www.udacity.com)
 
